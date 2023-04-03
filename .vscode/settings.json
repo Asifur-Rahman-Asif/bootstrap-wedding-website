@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Default Dark+ Experimental",
+    "workbench.preferredDarkColorTheme": "Default Light+",
+    "workbench.preferredHighContrastColorTheme": "Default High Contrast Light",
+    "workbench.preferredLightColorTheme": "Default High Contrast Light",
+    "window.autoDetectColorScheme": false,
+    "terminal.integrated.tabs.defaultColor": null
+}
